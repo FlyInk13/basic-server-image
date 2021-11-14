@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 FROM node:12-alpine
-MAINTAINER FlyInk13 <eee@vk.com>
+MAINTAINER FlyInk13 <dev@ifx.su>
 WORKDIR /home/basic-server-image
 COPY . .
 EXPOSE 80
